@@ -1,5 +1,4 @@
-class MaxStack:
-    
+class MaxStack:    
     def __init__(self):
         self.stack = []
         self.max = []
