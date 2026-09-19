@@ -23,7 +23,6 @@ class MaxStack:
     def getMax(self):
         return self.max[-1]
 
-
 ## Example Execution ##
 obj = MaxStack()
 obj.push(10)
